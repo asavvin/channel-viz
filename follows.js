@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'aUaqaEUyl74skKNXrLtZ9bQHfswtBjvyPWdYfizlB2lH3vsl', // Unique master Xively API key to be used as a default
+	var defaultKey		= '5jIookMTp2vEpezasceWvNP11Hqp4lUCr11WS9kRdsSowSEG', // Unique master Xively API key to be used as a default
 		defaultFeeds	= ['2033683223!Sensor1'], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Andrey Savvin', // Replaces Xively logo in the header
 		dataDuration	= '6hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
