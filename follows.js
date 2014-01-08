@@ -161,6 +161,7 @@
 									});
 
 									graph.render();
+									Onupdate(1);
 
 									var ticksTreatment = 'glow';
 
